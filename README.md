@@ -43,7 +43,7 @@ I believe in using the right tool for the job, which is why I maintain a flexibl
 
 ## 📫 Connect with Me
 
-* **Email:** [your.email@example.com]
+* **Email:** [anshulch.1606@gmail.com]
 * **GitHub:** [anshul-ch](https://github.com/anshul-ch)
 
 ---
