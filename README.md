@@ -1,50 +1,117 @@
-# 👋 Hi there, I'm Anshul Chaudhary
+<div align="center">
 
-**Data Science | Full Stack Developer | Linux Enthusiast**
+# Hi there, I'm Anshul Chaudhary 👋  
+### Data Science · Full Stack Learner · Linux Enthusiast
 
-I'm a developer who thrives in a multi-OS ecosystem, bridging the gap between Data Science and Full Stack development. I enjoy building clean, efficient solutions and constantly refining my development workflow.
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33CCEE&center=true&vCenter=true&width=520&lines=Learning+.NET+Development;Exploring+Data+Science+for+Web;Ricing+Linux+%2B+Hyprland;Improving+Every+Day"
+    alt="Typing SVG"
+  />
+</a>
 
----
+<br/>
 
-## 🛠️ Environment & Workflow
+<!-- ONE LINE TECH ICONS (learning-focused) -->
+<img
+  src="https://skillicons.dev/icons?i=dotnet,cs,python,java,git,linux,arch,neovim,docker&theme=dark"
+  alt="Tech Stack"
+/>
 
-I believe in using the right tool for the job, which is why I maintain a flexible, multi-platform environment:
-
-* **Linux (Fedora & Arch + Hyprland):** My primary daily drivers for development, scripting, and deep system customization.
-* **Windows:** Utilized for specialized .NET development and database management.
-* **Editors & IDEs:** * **Neovim:** My go-to for speed and terminal-based coding.
-    * **Visual Studio / Rider:** Used for heavy-duty .NET and C# architecture.
-    * **Azure Data Studio:** My hub for SQL and database tasks.
-
----
-
-## 🚀 Technical Stack
-
-* **Languages:** C#, Java, Python, R, Lua
-* **Frameworks:** .NET, ASP.NET Core
-* **Databases:** MS SQL Server, SQL Express
-* **Tools:** Git, Docker, Jenkins
+</div>
 
 ---
 
-## ⚡ Currently Exploring
-* **Advanced OOP:** Deepening my understanding of how complex systems integrate through design patterns.
-* **Full Stack Integration:** Connecting analytical Data Science models with robust .NET backends.
-* **Linux Customization:** Always tweaking my Hyprland and Lua configs for the "perfect" workflow.
+## 🧑‍🚀 About Me
+
+I’m a **developer in progress**, learning how to build backend applications with **.NET**  
+and exploring how **data science concepts** can be applied in real-world web systems.
+
+I enjoy working in **Linux-based environments**, experimenting with tooling, and gradually  
+improving my understanding of **software design, performance, and clean code practices**.
 
 ---
 
-## 📊 My GitHub Stats
+## ⚙️ Environment & Workflow
 
-![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshul-ch&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshul-ch&layout=compact&theme=radical)
+- **🐧 Linux (Primary):** Fedora & Arch (Hyprland) — learning customization & workflows  
+- **🪟 Windows:** Used for .NET, MS SQL, and general development  
+- **⌨️ Editor:** Neovim (LazyVim) — learning efficient editing  
+- **🧰 IDEs:** JetBrains Rider & Microsoft Visual Studio
+
+---
+## 🌱 Currently Exploring & Learning
+
+- Core **OOP concepts** and common design patterns  
+- Basics of **ML models** and how they connect to APIs  
+- **Linux ricing**, scripting, and Lua-based configuration  
+- Writing cleaner, more maintainable code
 
 ---
 
-## 📫 Connect with Me
+## 📈 GitHub Activity
 
-* **Email:** [anshulch.1606@gmail.com]
-* **GitHub:** [anshul-ch](https://github.com/anshul-ch)
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=anshul-ch&theme=tokyonight&hide_border=true"
+  width="420"
+  alt="GitHub Streak"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=anshul-ch&theme=tokyo-night&hide_border=true"
+  width="880"
+  alt="Contribution Graph"
+/>
+
+</div>
 
 ---
-*“Simplicity is the soul of efficiency.”* 👨‍💻
+
+## 🧩 Languages & Tools I’m Practicing
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=dotnet,python,java&theme=dark"
+  alt="Languages"
+/>
+
+<br/>
+
+<img
+  src="https://skillicons.dev/icons?i=linux,arch,git,docker,neovim&theme=dark"
+  alt="Tools"
+/>
+
+</div>
+
+---
+## 🤝 Let’s Connect
+
+<div align="center">
+
+<a href="mailto:anshulch.1606@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/anshul-chaudhary-cse">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/anshul-ch">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<i>“Learning consistently beats knowing everything.”</i>
+
+</div>
